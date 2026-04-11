@@ -1,27 +1,28 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
-    margin: 0;
-    
+    font-size: 16px;
+    color: #333333;
     text-align: center;
-}
-h2{
-    color: blue;
- 
-}
-ol{
-    color: rgb(76, 58, 93);
-    text-align: center;
-    padding: 20px;
-    margin: 20px auto;
-    text-align: center;
-}
-li{
-    margin: 8px 0;
-}
-ul{
-    margin-top: 5px;
-    margin-bottom: 10px;
-    color: blueviolet;
 }
 
+
+h2 {
+    font-size: 24px;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+li {
+    font-size: 18px;
+    color: darkgreen;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+ol, ul {
+    list-style-position: inside;
+    text-align: center;
+}
