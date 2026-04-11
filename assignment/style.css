@@ -1,1 +1,27 @@
-ki
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    
+    text-align: center;
+}
+h2{
+    color: blue;
+ 
+}
+ol{
+    color: rgb(76, 58, 93);
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+}
+li{
+    margin: 8px 0;
+}
+ul{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: blueviolet;
+}
+
